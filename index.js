@@ -23,6 +23,9 @@ app.use((req, res, next) => {
 
 
 
+// OYO: Create a route handler for /js that sends only the client side javaScript
+// run your server and test your code
+
 
 app.listen(3000, () => {
   console.log("Server is serving")
